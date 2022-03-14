@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kaanerol92
+- 👋 Hi, I’m Kaan.
 - 🌱 I’m currently developing with Java and Flutter
-- 📫 info@kaanerol.dev
+- 📫 For contact : info@kaanerol.dev
 
 <!---
 kaanerol92/kaanerol92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
